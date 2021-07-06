@@ -73,7 +73,7 @@ body {
   color: rgb(36, 36, 36);
 }
 .left-content h2 span {
-  color: green;
+  color: #fe4f30;
 }
 .left-content p {
   font-size: 16px;
@@ -105,7 +105,7 @@ body {
 /* About section  */
 
 .about-me {
-  background-color: #FC8C47;
+  background-color: #fff4ee;
   background-image: url(../images/Shapes/7.png);
   padding-top: 30px;
   margin-top: 150px;
